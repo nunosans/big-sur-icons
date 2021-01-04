@@ -1,4 +1,4 @@
-Shield: [![CC BY 4.0][https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg]][https://creativecommons.org/licenses/by-nc/4.0/legalcode]
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 # Redwood: macOS Big Sur Icons
 
@@ -65,4 +65,4 @@ Instructions for installing DaisyDisk icon and extra assets:
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International Licence](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
-[![CC BY-NC 4.0][https://licensebuttons.net/l/by-nc/4.0/88x31.png]][https://creativecommons.org/licenses/by-nc/4.0/legalcode]
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
