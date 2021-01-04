@@ -6,38 +6,38 @@ Icons for macOS apps in pixel-perfect high resolution, P3 color profile, and fre
 
 Includes:
 
-- [x] Adobe Acrobat Reader.icns
-- [x] Adobe Acrobat.icns
-- [x] Adobe Aero Beta.icns
-- [x] Adobe Aero.icns
-- [x] Adobe AfterEffects.icns
-- [x] Adobe Animate.icns
-- [x] Adobe Audition.icns
-- [x] Adobe Bridge.icns
-- [x] Adobe Character Animator.icns
-- [x] Adobe Creative Cloud.icns
-- [x] Adobe DreamWeaver.icns
-- [x] Adobe Illustrator.icns
-- [x] Adobe InCopy.icns
-- [x] Adobe InDesign.icns
-- [x] Adobe Lightroom Classic.icns
-- [x] Adobe Lightroom.icns
-- [x] Adobe Media Encoder.icns
-- [x] Adobe Photoshop.icns
-- [x] Adobe Prelude.icns
-- [x] Adobe Premiere Pro.icns
-- [x] Adobe Rush.icns
-- [x] Adobe XD.icns
-- [x] DaisyDisk.icns
-- [x] Figma.icns
-- [x] Just a Timer.icns
-- [x] KakaoTalk.icns
-- [x] LINE.icns
-- [x] NordVPN.icns
-- [x] Origami Studio.icns
-- [x] Slack.icns
-- [x] Spotify.icns
-- [x] WhatsApp.icns
+- [x] Adobe Acrobat Reader
+- [x] Adobe Acrobat
+- [x] Adobe Aero Beta
+- [x] Adobe Aero
+- [x] Adobe AfterEffects
+- [x] Adobe Animate
+- [x] Adobe Audition
+- [x] Adobe Bridge
+- [x] Adobe Character Animator
+- [x] Adobe Creative Cloud
+- [x] Adobe DreamWeaver
+- [x] Adobe Illustrator
+- [x] Adobe InCopy
+- [x] Adobe InDesign
+- [x] Adobe Lightroom Classic
+- [x] Adobe Lightroom
+- [x] Adobe Media Encoder
+- [x] Adobe Photoshop
+- [x] Adobe Prelude
+- [x] Adobe Premiere Pro
+- [x] Adobe Rush
+- [x] Adobe XD
+- [x] DaisyDisk
+- [x] Figma
+- [x] Just a Timer
+- [x] KakaoTalk
+- [x] LINE
+- [x] NordVPN
+- [x] Origami Studio
+- [x] Slack
+- [x] Spotify
+- [x] WhatsApp
 
 ## Installation
 
