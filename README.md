@@ -6,38 +6,42 @@ Icons for macOS apps in pixel-perfect high resolution, P3 color profile, and fre
 
 Includes:
 
-- [x] Adobe Acrobat Reader
-- [x] Adobe Acrobat
-- [x] Adobe Aero Beta
-- [x] Adobe Aero
-- [x] Adobe AfterEffects
-- [x] Adobe Animate
-- [x] Adobe Audition
-- [x] Adobe Bridge
-- [x] Adobe Character Animator
-- [x] Adobe Creative Cloud
-- [x] Adobe DreamWeaver
-- [x] Adobe Illustrator
-- [x] Adobe InCopy
-- [x] Adobe InDesign
-- [x] Adobe Lightroom Classic
-- [x] Adobe Lightroom
-- [x] Adobe Media Encoder
-- [x] Adobe Photoshop
-- [x] Adobe Prelude
-- [x] Adobe Premiere Pro
-- [x] Adobe Rush
-- [x] Adobe XD
-- [x] DaisyDisk
-- [x] Figma
-- [x] Just a Timer
-- [x] KakaoTalk
-- [x] LINE
-- [x] NordVPN
-- [x] Origami Studio
-- [x] Slack
-- [x] Spotify
-- [x] WhatsApp
+- Adobe Acrobat Reader
+- Adobe Acrobat
+- Adobe Aero Beta
+- Adobe Aero
+- Adobe AfterEffects
+- Adobe Animate
+- Adobe Audition
+- Adobe Bridge
+- Adobe Character Animator
+- Adobe Creative Cloud
+- Adobe DreamWeaver
+- Adobe Illustrator
+- Adobe InCopy
+- Adobe InDesign
+- Adobe Lightroom Classic
+- Adobe Lightroom
+- Adobe Media Encoder
+- Adobe Photoshop
+- Adobe Prelude
+- Adobe Premiere Pro
+- Adobe Rush
+- Adobe XD
+- DaisyDisk
+- Encrypto
+- Facebook
+- Figma
+- Just a Timer
+- KakaoTalk
+- LINE
+- NordVPN
+- Origami Studio
+- Slack
+- Spotify
+- Sublime Text
+- WhatsApp
+- Zoom
 
 ## Installation
 
