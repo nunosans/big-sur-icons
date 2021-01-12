@@ -1,8 +1,8 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-# Redwood: macOS Big Sur Icons
+# macOS Big Sur Icons
 
-Icons for macOS apps in pixel-perfect high resolution, P3 color profile, and free for personal use. Made with ♥️ by [Nuno Coelho Santos](http://nunocoelhosantos.com).
+Icons for macOS apps in pixel-perfect high resolution and free for personal use. Made with ♥️ by [Nuno Coelho Santos](http://nunocoelhosantos.com).
 
 Includes:
 
