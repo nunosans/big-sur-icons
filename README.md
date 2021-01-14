@@ -1,3 +1,5 @@
+![Big Sur Icons cover](http://bigsuricons.com/images/open-graph-image.jpg)
+
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 # macOS Big Sur Icons
