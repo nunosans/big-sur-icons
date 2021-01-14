@@ -4,45 +4,6 @@
 
 Icons for macOS apps in pixel-perfect high resolution and free for personal use. Made with ♥️ by [Nuno Coelho Santos](http://nunocoelhosantos.com).
 
-Includes:
-
-- Adobe Acrobat Reader
-- Adobe Acrobat
-- Adobe Aero Beta
-- Adobe Aero
-- Adobe AfterEffects
-- Adobe Animate
-- Adobe Audition
-- Adobe Bridge
-- Adobe Character Animator
-- Adobe Creative Cloud
-- Adobe DreamWeaver
-- Adobe Illustrator
-- Adobe InCopy
-- Adobe InDesign
-- Adobe Lightroom Classic
-- Adobe Lightroom
-- Adobe Media Encoder
-- Adobe Photoshop
-- Adobe Prelude
-- Adobe Premiere Pro
-- Adobe Rush
-- Adobe XD
-- DaisyDisk
-- Encrypto
-- Facebook
-- Figma
-- Just a Timer
-- KakaoTalk
-- LINE
-- NordVPN
-- Origami Studio
-- Slack
-- Spotify
-- Sublime Text
-- WhatsApp
-- Zoom
-
 ## Installation
 
 Instructions for updating app icons:
